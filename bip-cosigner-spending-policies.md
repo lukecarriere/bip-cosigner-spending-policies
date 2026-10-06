@@ -10,7 +10,7 @@ This draft standardizes the policy a co-signer enforces, not the co-signer itsel
 BIP: ?
 Layer: Applications
 Title: Co-signer Spending Policies
-Authors: <name> <email>
+Authors: Luke Carriere <luke@lukecarriere.com>
 Status: Draft
 Type: Specification
 License: BSD-2-Clause
